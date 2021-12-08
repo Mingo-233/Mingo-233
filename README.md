@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on front end development of cash register.
+- 🔭 I’m currently working on saas & erp.
 - 🌱 I’m currently learning Vue source code.
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with ...
+<!-- - 🤔 I’m looking for help with  -->
 - 💬 Ask me about :In fact, I am not sure what I can answer at the moment, uh, I am still a newcomer, but I keep learning. Cheer everyone
 - 📫 How to reach me:  [掘金](https://juejin.cn/user/3289337926283534) 
 - 😄 Pronouns: Learning never ends
