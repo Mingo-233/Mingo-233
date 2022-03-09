@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for a job.
-- 🌱 I’m currently learning algorithm.
+<!-- - 🔭 I’m currently looking for a job. -->
+- 🌱 I’m currently learning threejs webgl.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with  -->
 - 💬 Ask me about :In fact, I am not sure what I can answer at the moment, uh, I am still a newcomer, but I keep learning. Cheer everyone
