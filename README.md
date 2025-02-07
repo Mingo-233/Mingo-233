@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently looking for a job. -->
-- 🌱 I’m currently learning threejs webgl.
+- 🌱 With the support of AI, everyone can become a versatile developer.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about :In fact, I am not sure what I can answer at the moment, uh, I am still a newcomer, but I keep learning. Cheer everyone -->
 - 📫 How to reach me:  [掘金](https://juejin.cn/user/3289337926283534) 
-- 🕷️ Personal website: [webgl](https://mingo.wang)
+- 🕷️ Personal website: [web](https://mingo-233.github.io/)
 - 😄 Pronouns: Learning never ends
 <!-- - ⚡ Fun fact: ... -->
 <!--
